@@ -1,0 +1,195 @@
+@media only screen and (max-width: 1745px){
+    div#bg-3-1 { left: 16%!important;}
+    div#bg-3-2 { left: 25%!important;}
+}
+
+@media only screen and (max-width: 1575px){
+    .section-1 .right-text { right: 15%!important;}
+    .smoke-branch { left: 3.8%!important;}
+}
+
+@media only screen and (max-width: 1475px){
+    div#bg-3-2  { left: 26%!important;}
+    .section-1 .right-text { right: 10%!important;}
+}
+
+@media only screen and (max-width: 1440px){
+    div#bg-3-1 { left: 11%!important;}
+    .smoke-branch { left: 6%!important; max-width: 468px!important;}
+    div#bg-3-2 { left: 21.5%!important;}
+    .blink { height: 190px!important; width: 190px!important}
+    #smoke { left: 11%!important; max-width: 670px!important; width: 100%!important; left: 3%!important;}
+    .section-1 .right-text { right: 18%!important;}
+    .partners-hldr .partners { left: 8%!important; margin-top: 27%!important;}
+    .section-1 .mid-text h3{ font-size: 35px!important;}
+
+}
+
+@media only screen and (max-width: 1370px){
+    .section-2 article { padding: 35px!important;}
+    .section-2 article h4 { font-size: 25px!important;}
+}
+
+@media only screen and (max-width: 1340px){
+    .smoke-branch { max-width: 450px!important;}
+    .section-1 .right-text { right: 12%!important;}
+    .partners-hldr .partners { left: 9%!important; margin-top: 29%!important;}
+}
+
+@media only screen and (max-width: 1270px){
+    div#bg-3-2 { left: 23.2%!important;}
+}
+
+@media only screen and (max-width: 1254px){
+	.nav-custom .navbar-right li a {padding: 10px!important; font-size: 14px!important;}
+}
+
+@media only screen and (max-width: 1240px){
+    .partners-hldr .partners { margin-top: 33%!important;}
+}
+
+@media only screen and (max-width: 1199px){
+    .section-1 .right-text { right: 5%!important;}
+}
+
+@media only screen and (max-width: 1175px){
+    .smoke-branch { max-width: 400px!important; left: 8%!important;}
+    .section-2 article { padding: 25px 20px!important;}
+    .section-2 article h4 { font-size: 20px!important; text-align: center!important;}
+    .section-2 article h4 { line-height: 30px!important;}
+}
+
+@media only screen and (max-width: 1171px){
+	.nav-logo { max-width: 350px!important;}
+
+}
+
+@media only screen and (max-width: 1125px){
+    .section-6 { padding: 50px 25px!important;}
+    .section-4 { padding: 50px 25px!important;}
+    .section-6 h3 { font-size: 25px!important;}
+    .section-6 figcaption p { line-height: 25px!important;}
+    .section-5 h5{ font-size: 25px!important; line-height: 35px!important;}
+    .section-5 ul > li > figcaption { font-size: 20px!important;}
+    .smoke-branch { height: 920px!important;}
+    #smoke { max-width: 650px!important; left: 0!important;}
+    .partners-hldr .partners > ul > li figure { max-width: 80px!important; margin: 0 auto;}
+    .section-1 .right-text { max-width: 500px!important; right: 9%!important;}
+    div#bg-3-2 { left: 25%!important;}
+    div#parallax-bg-2 { z-index: 3!important;}
+    .section-4 ul.sc4-dvider > li figcaption h4 { font-size: 31px!important; line-height: 45px;}
+}
+
+@media only screen and (max-width: 1091px){
+	.navbar-nav > li { padding: 20px 5px!important;}
+    .partners-hldr .partners { margin-top: 36%!important;}
+}
+
+@media only screen and (max-width: 1030px){
+    .section-1 .right-text { right: 5%!important;}
+}
+
+@media only screen and (max-width: 999px){
+    div#parallax-bg-2{ display: none!important;}
+    div#bg-1-1 { display: none!important;}
+    #smoke { top: 0%!important; position: relative!important;}
+    .section-1 { height: 1700px!important;}
+    .partners-hldr .partners { margin-top: 33%!important;}
+    .smoke-hldr { top: 40%!important;}
+}
+
+@media only screen and (max-width: 991px){
+	.navbar-nav > li { padding: 20px 0px!important;}
+}
+
+@media only screen and (max-width: 950px){
+    .section-5 ul > li > figure { max-width: 170px!important; height: 170px!important;}
+    .section-5 ul > li > figcaption { padding-top: 15px!important;}
+    .section-5 div a { padding: 10px 25px!important; max-width: 220px!important; font-size: 18px!important;}
+}
+
+
+@media only screen and (max-width: 941px){
+    .navbar-header { float: none;}
+    .navbar-left,.navbar-right { float: none !important;  }
+    .navbar-toggle { display: block; float: right; background: transparent!important; border: 0px; margin-left: 10px; margin-top: 36px; }
+    .navbar-collapse { border-top: 0px solid transparent; box-shadow: inset 0 0px 0 rgba(255,255,255,0.1); background: #fff; position: relative; z-index: 99; }
+    .navbar-fixed-top { top: 0; border-width: 0 0 1px; }
+    .navbar-collapse.collapse { display: none!important; }
+    .navbar-nav {float: none!important;}
+    .navbar-nav>li { float: none!important; }
+    .navbar-nav>li>a { padding-top: 10px; padding-bottom: 10px; }
+    .collapse.in{  display:block !important; }
+    .nav-custom .navbar-right li a { font-size: 19px!important;} 
+    
+    .nav-ul { margin-top: 53px; }
+    .navbar-brand { height: inherit; padding: 0px; }
+    .nav-custom {  top: 0!important; padding: 0px!important; height: 85px!important;}
+    .menu { top: 0!important;}
+    .navbar-toggle .icon-bar{ width: 35px; height: 4px;}
+    .nav-logo { margin-top: 20px!important;}
+    .scrolled-nav .navbar-toggle { margin-top: 15px!important;}
+}
+
+@media only screen and (max-width: 860px){
+    .section-5 ul > li { width: 32%!important; margin-bottom: 40px!important; }
+}
+
+@media only screen and (max-width: 768px){
+    .section-6 ul li:first-child figure { margin-right: 15px!important; margin-bottom: 15px!important;}
+    .section-6 h3 { line-height: 35px!important;}
+    .section-6 ul li:first-child figure { max-width: 275px!important; height: 186px!important;}
+    .section-6 ul li:last-child figcaption { padding-top: 0px!important;}
+    .section-6 ul li:last-child { margin-top: 30px!important;}
+    .section-6 { padding: 40px 15px!important;}
+    .section-5{ padding: 40px 15px!important;}
+    .section-5 h5 { letter-spacing: 0px!important;}
+}
+
+@media only screen and (max-width: 650px){
+	footer div > p { font-size: 14px!important}
+    .section-5 ul > li { width: 49%!important; }
+}
+
+@media only screen and (max-width: 595px){
+	footer ul { float: none!important;  text-align: center; margin-bottom: 15px!important;} 
+	footer div { text-align: center;}
+
+}
+
+@media only screen and (max-width: 550px){
+    .section-6 ul li:first-child figure { max-width: 100%!important; width: 100%!important; float: none!important; height: 220px!important; margin-bottom: 25px!important; }
+    .section-6 ul li:first-child figure img { object-fit: cover!important;}
+    .section-6 ul li:last-child figure { max-width: 100%!important; width: 100%!important; float: none!important; height: 220px!important; margin: 0!important; margin-bottom: 25px!important;}
+}
+
+
+
+@media only screen and (max-width: 445px){
+    .section-5 ul > li { width: 100%!important; margin-bottom: 20px!important;}
+    .section-5 ul > li > figcaption { padding-top: 10px!important;}
+}
+
+@media only screen and (max-width: 435px){
+	footer { padding: 15px!important;}
+}
+
+@media only screen and (max-width: 416px){
+    .nav-logo { max-width: 320px!important; height: 48px!important;}
+    .scrolled-nav .nav-logo { max-width: 280px!important; height: 35px!important;}
+}
+
+@media only screen and (max-width: 405px){
+	footer div > p { font-size: 13px!important}
+}
+
+@media only screen and (max-width: 386px){
+    .nav-logo { max-width: 275px!important;}
+    .navbar-toggle {margin-top: 20px!important;}
+}
+
+@media only screen and (max-width: 341px){
+    .navbar-toggle { margin: 0px!important;}
+    .nav-logo {max-width: 270px!important; margin-top: 35px!important; margin: 0 auto; padding: 0px!important;}
+    .nav-custom { height: 95px!important;}
+}
